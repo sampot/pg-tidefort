@@ -1,1 +1,1 @@
-module.exports = { test: { include: ["*.test.js"] } };
+module.exports = { test: { include: ["tests/**/*.test.js"] } };
